@@ -1,5 +1,5 @@
 import Data.Constants;
-import Pages.Quiz2Steps;
+import Steps.Quiz2Steps;
 import io.restassured.response.Response;
 import org.apache.commons.lang.RandomStringUtils;
 import org.testng.Assert;
